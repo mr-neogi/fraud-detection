@@ -71,3 +71,7 @@ Add screenshots of Overview, Evaluation Report and Live Predictor here after run
 ## Important
 
 This is an educational prototype, not a production payment decision system. Do not use its predictions to approve or decline real transactions without independent validation, governance, security review and human oversight.
+
+## 🫸💥🫷 Team 
+
+Soumya Neogi, Aparupa Ghosh, Ayantika Samanta , Indranil Guria — B.Tech CSE (AI & ML), Brainware University
